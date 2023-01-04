@@ -1,0 +1,72 @@
+University,GPA_min,GPA_max,Region
+University of Waterloo,3.11,3.96,AS-CA
+Michigan State University,3.24,4,AS-CA
+UC Chile,3.58,3.94,AS-CA
+Boston University,3.39,3.96,AS-CA
+Western University,3.42,3.84,AS-CA
+Arizona State University,3.44,3.94,AS-CA
+UBC,3.46,3.9,AS-CA
+Univrsity of Pennsylvania,3.47,4,AS-CA
+University of California,3.5,3.99,AS-CA
+PennState,3.56,3.94,AS-CA
+Universiti Kebangsaan Malaysia,3.08,3.98,Asia
+Indian Institute of Technology Bombay,3.14,3.48,Asia
+Korea University,3.22,3.96,Asia
+Universiti Teknologi Malaysia,3.25,3.96,Asia
+Universiti Sains Malaysia,3.31,3.84,Asia
+National Taiwan University,3.28,3.98,Asia
+Hanyang University,3.31,4,Asia
+Universiti Brunei Darussalam,3.53,3.68,Asia
+Nanyang Technological University Singapore,3.33,3.99,Asia
+Prince of Songkla University,3.56,3.95,Asia
+Taiwan Tech,3.36,3.88,Asia
+Universiti Malaya,3.36,4,Asia
+KOC Universitesi,3.58,3.72,Asia
+Midle East Technical University,3.44,3.93,Asia
+Chulongkorn University,3.56,3.88,Asia
+Humboldt-Universitat zu Berlin,3.72,4,EU
+University of Szeged,3.08,4,EU
+University of Pecs,3.37,3.98,EU
+Universidad De Granada,3.25,3.94,EU
+University of Zagreb,3.23,3.93,EU
+Maastricht University,3.25,3.95,EU
+Palacky Universitu Olomouc,3.02,3.99,EU
+Vrije Universiteit Amsterdam,3.28,3.98,EU
+University of Padua,3.32,4,EU
+Universitat Pompeu Fabra,3.38,.97,EU
+Vytautas Magnus University,3.35,3.98,EU
+University of Pisa,3.32,3.98,EU
+KU Leuven,3.36,3.98,EU
+Sapienza Universiti Di Roma,3.4,3.96,EU
+University of Warsaw,3.48,3.99,EU
+Universidad Autonoma De Madrid,3.3,3.85,EU
+University of Groningen,3.25,3.96,EU
+Radboud Universiteit,3.11,4,EU
+University Tartue,3.61,3.98,EU
+Leiden University,3.67,3.97,EU
+University of Twente,3.4,3.94,EU
+NUI Galway,3.2,3.98,UK-Ireland
+University of Birmingham,3.23,3.96,UK-Ireland
+University of Sussex,3.28,3.95,UK-Ireland
+University College London,3.28,3.97,UK-Ireland
+University of Exeter,3.3,3.92,UK-Ireland
+University College Dublin,3.39,3.88,UK-Ireland
+University of York,3.4,3.91,UK-Ireland
+University of Leeds,3.4,4,UK-Ireland
+The University of Edinburg,3.41,3.97,UK-Ireland
+University College Cork – National University of Ireland,3.33,4,UK-Ireland
+University of Liverpool,3.44,3.92,UK-Ireland
+University of Warwick,3.47,3.92,UK-Ireland
+Newcastle University,3.5,3.94,UK-Ireland
+University of Leicester,3.53,3.96,UK-Ireland
+University of Glasgow,3.54,4,UK-Ireland
+Lancaster University,3.65,3.92,UK-Ireland
+Queen Mary University of London,3.67,3.82,UK-Ireland
+Monash Universityy,3.34,3.89,AU-NZ
+University of Sydney,3.6,3.97,AU-NZ
+The University of Queensland,3.32,3.94,AU-NZ
+The Australian National University,3.46,3.96,AU-NZ
+The University of Melbourne,3.56,3.96,AU-NZ
+Massey University,3.42,".3,96",AU-NZ
+The University of Auckland,3.19,3.95,AU-NZ
+The University of Adelaide,3.58,3.96,AU-NZ
